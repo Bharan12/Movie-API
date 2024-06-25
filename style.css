@@ -1,0 +1,70 @@
+* {
+    background-color: #000000;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+input {
+    width: 400px;
+    height: 30px;
+    border-radius: 25px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 22px;
+}
+
+label {
+    font-size: 28px;
+    color: #ffffff
+}
+
+button {
+    font-size: 20px;
+    display: flex;
+    width: 200px;
+    background: #00d0ff;
+    justify-content: center;
+    color: white;
+    padding: 1px;
+    margin: 25px auto;
+    text-align: center;
+    border-radius: 25px;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+
+#form {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#container {
+    
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+}
+
+img {
+    height: 70%;
+    width: 80%;
+    border: 2px solid white;
+    justify-content: center;
+}
+
+P {
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: rgba(255, 255, 255, 0.822);
+    text-align: center;
+}
+
+div{
+    text-align: center;
+}
